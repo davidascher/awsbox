@@ -86,3 +86,9 @@ Use yum.
     $ yum search memcached
     $ yum install memcached.x86_64
 
+
+## I want to deploy a Python app alongside my Node app, how do I do that?
+
+## Where are the various logs?
+
+
